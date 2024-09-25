@@ -1,0 +1,2 @@
+# rockpapersissors
+setting up git 
